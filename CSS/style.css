@@ -1,0 +1,67 @@
+<style>
+    h1{
+        font: 100px;
+        color: darkblue;
+        background-color: cadetblue;
+        width: 80%;
+    }
+    h2{
+       font: 100px;
+       background-color: darkblue;
+       color: rgb(113, 250, 1);
+       width: 80%;
+       
+    }
+    ol{
+        color: rgb(113, 255, 31);
+    }
+    img{
+        height: 200px;
+        wight: 110px;
+    }
+    p , h1 , h2{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    #C{
+        color: brown;
+    }
+    .home{
+        height: 20px;
+        width: 75%;
+        background-color: black;
+        color: burlywood;
+    }
+    .basa{
+        color: green;
+        background-color: honeydew;
+    }
+    .B{
+        color: red;
+    }
+    .valobasa{
+        background-color: rgb(177, 106, 0);
+    }
+    .valobasa{
+        border:10px solid red;
+        border-radius: 33px;
+        margin: 10px 5px 15px 10px;
+        padding: 15px;
+    }
+    .icca{
+        border:2px solid salmon ;
+        border-radius:25px;
+        width: 30%;  
+        height: 200px; 
+        margin: 5px 1px ;
+        padding-top: 1;
+        float: left;
+        
+    }
+    h4{
+        text-align: center;
+        font-size: x-large;
+        color: rgb(25, 0, 255);
+    }
+        
+    
+</style>
