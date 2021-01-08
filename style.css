@@ -1,0 +1,83 @@
+h1:hover{
+    color: coral;
+}
+h4:hover{
+    color:red;
+}
+li:nth-child(2n){
+    background-color: rgba(231, 226, 226, 0.329);
+    width: 30%;
+}
+.center{
+    text-align: center;
+}
+h2{
+   font: 100px;
+   background-color: darkblue;
+   color: rgb(113, 250, 1);
+   width: 80%;
+       
+}
+ol{
+    color: rgb(113, 255, 31);
+}
+img{
+    height: 200px;
+    width: 110px;
+}
+p , h1 , h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#C{
+    color: brown;
+}
+.home{
+    height: 20px;
+    color: burlywood;
+}
+.basa{
+    color: green;
+    background-color: honeydew;
+}
+.B{
+    color: red;
+}
+.valobasa{
+    border:10px solid red;
+    border-radius: 33px;
+    margin: 100px 5px 15px 10px;
+    padding: 15px;
+    background-color: rgb(177, 106, 0);
+    width:40%;
+}
+.icca{
+    border-radius:25px;
+    width: 33%;  
+    height: 200px; 
+    margin: 5px 1px ;
+    padding-top: 1;
+    float: left;
+        
+}
+h4{
+    text-align: center;
+    font-size: x-large;
+    color: rgb(25, 0, 255);
+}
+.sec-last{
+    clear: both;
+}
+#myhome{
+    width:20%;
+}
+.divone img{
+    width: 250px;
+}
+#last-p{
+    color: coral;
+    font: 700;
+}
+#last-p:hover{
+    font-size: xx-large;
+    color: red;
+}
